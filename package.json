@@ -1,0 +1,15 @@
+{
+  "name": "mathexpr",
+  "version": "0.1.0",
+  "main": "lib/index.js",
+  "repository": "https://github.com/comjun04/mathexpr.git",
+  "author": "My Name <comjun04@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "^8.2.1",
+    "should": "^13.2.3"
+  }
+}
